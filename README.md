@@ -1,1 +1,1 @@
-# django-datav-echarts-front
+这是一个前后端分离的,利用django作为后端,datav,echarts,vue作为前端的一个小demo
